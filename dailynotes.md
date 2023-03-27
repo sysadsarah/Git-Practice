@@ -1,4 +1,52 @@
-Today we decided to choose Malware as our topic for the presentation on Friday. At the moment, theclass is watching an AWS Cloud Practitioner test prep, in the Zoom lobby, thanks to Afnan. Simultaneously, I am doing some research for the  presentation and editing some slides. 
+Today my group presented on the topic of Malware and AWS services 
+to keep the cloud safe. We watched presentations by our classmates 
+and learned a  bit. A topic that stood out to me during the presentations 
+was pen testing. A penetration tester is responsible for finding security 
+vulnerabilities, including determining which penetration testing method 
+(Gupta, 2021) is best suited to the situation. This is a challenging task 
+that requires advanced skills and knowledge. A penetration tester needs 
+to be familiar with different hacking techniques and have in-depth network 
+security knowledge. They must also know how to use various tools to assess 
+the target system’s security posture.
+
+![Pen-testing](https://www.eccouncil.org/cybersecurity-exchange/wp-content/uploads/2022/03/Penetration-Testing-Phases-1024x512.jpg) 
+
+There are five penetration testing phases: reconnaissance, scanning, vulnerability assessment, exploitation, and reporting.Pen testers use tools to examine the target website or system for weaknesses, 
+including open services, application security issues, and open source vulnerabilities.
+![Pen-testing](https://www.satalytics.com.au/wp-content/uploads/2020/02/5-key-steps-in-Pen-testing-process.png)
+
+
+What I learned: 
+I  was looking at the last part of the security module and wanted to 
+revisit the information about the AWS Trusted Advisor. Questions about this 
+service keeps popping up on the Cloud Practitioner practice tests so I want to 
+make sure I know what it is.
+Trusted Advisor is an online resource to help you reduce cost, increase 
+performance, and improve security by optimizing your AWS environment. 
+It provides best practices (or checks) in five categories:
+1. Cost Optimization – Save money on AWS by reducing unused and 
+idle resources or making commitments to reserved capacity.
+2. Performance – Improve the performance of your service by checking 
+your service limits, ensuring that you take advantage of provisioned throughput, 
+and monitoring for over-utilized instances.
+3. Security – Improve the security of your application by closing gaps, 
+activating various AWS security features, and examining your permissions.
+4. Fault Tolerance – Increase the availability and redundancy of your AWS 
+application by taking advantage of automatic scaling, health checks, multiple 
+Availability Zones, and backup capabilities.
+5. Service Limits – Check for service usage that is more than 80 percent of the service limit.
+The status of the check is shown 
+ 
+March 21st Notes Continued.
+From the Test prep 
+Amazon Aurora is a relational database management system (RDBMS) built for the cloud with full MySQL and PostgreSQL compatibility. Aurora gives you the performance and availability of commercial-grade databases at one-tenth the cost.
+Amazon Aurora: enterprise class - works with mysql - 5x faster -automatic. 
+Its best to have multiple AWS account.  Its part of the AWS best practice to do so. 
+Spot instances get 90 percent discount! 
+Your DNS is the service that translates your domain name into an IP address. AWS Route 53 is a smart DNS system that can dynamically change your origin address based on load, and even perform load balancing before traffic even reaches your servers.
+
+
+Today we decided to choose Malware as our topic for the presentation on Friday. At the moment, the class is watching an AWS Cloud Practitioner test prep, in the Zoom lobby, thanks to Afnan. Simultaneously, I am doing some research for the  presentation and editing some slides. 
 
 ![alt text](https://www.bleepstatic.com/content/hl-images/2023/02/13/mortal-kombat.jpg)
 ## H2 Mortal Kombat Malware
@@ -21,7 +69,6 @@ An IDS can detect an attack by using different mechanisms, including the followi
 • Anomaly-based detection – The IDS compares the current traffic pattern or system 
 activity against established baselines for any deviation. • Signature-based detection – The IDS monitors and analyzes the traffic for known patterns 
 of attack.
-![alt text](https://www.bleepstatic.com/content/hl-images/2023/02/13/mortal-kombat.jpg)
 
 Today I learned about three types of encryption, and what and ACL is. The three typed of encryption include symmetric, asymmetric, and hybrid.  Symmetric encryption is less complex and less secure. It used when speed is the priority. Asymmetric encryption is more secure than symmetric encryption because different keys are used for the encryption and decryption processes. Its a slower process than symmetric encryption.  
 
