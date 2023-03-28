@@ -8,7 +8,7 @@ doll until sensor activated. I added a commit to Gitlab. I created a branch on o
 of my repositories on Github and made some additions there.
 I started the Python Module
 
-**Python Module
+**Python Module**
 
 I learned that GoLang is a language that google created. 
 Primitive date type is data that are built into a coding language with no modification.
