@@ -1,3 +1,25 @@
+**Week of March 27th Notes**
+I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
+talked about doing pen tests back in the days when he had to physically 
+break into companies server room and limited access spaces. He mentioned 
+using a blow up doll on one of his missions. He lied on the ground to blow up the 
+doll until sensor activated. I added a commit to Gitlab. I created a branch on one 
+of my repositories on Github and made some additions there.
+I started the Python Module
+
+**Python Module
+
+I learned that GoLang is a language that google created. 
+Primitive date type is data that are built into a coding language with no modification.
+Composite data type combines multiple data types into a single unit.
+Programming is a way to automate processes. Programming languages specify a way to communicate 
+directions to a computer. Software is written into a text file by using a programming language, 
+which is either interpreted or compiled when it is run. Data is typed so that the interpreter or 
+compiler knows whether it is a string, integer, Boolean, or other data type.
+A composite data type stores different types of data in a single variable.
+Functions are collections of instructions that can be called repeatedly in a program.
+Version control manages changes to computer programs, documents, or other collections of information.
+
 Today my group presented on the topic of Malware and AWS services 
 to keep the cloud safe. We watched presentations by our classmates 
 and learned a  bit. A topic that stood out to me during the presentations 
