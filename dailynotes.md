@@ -1,4 +1,5 @@
 **Week of March 27th Notes**
+
 I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
 break into companies server room and limited access spaces. He mentioned 
