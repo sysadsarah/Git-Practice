@@ -20,6 +20,9 @@ compiler knows whether it is a string, integer, Boolean, or other data type.
 A composite data type stores different types of data in a single variable.
 Functions are collections of instructions that can be called repeatedly in a program.
 Version control manages changes to computer programs, documents, or other collections of information.
+---------------------------------------------------------------------------------------------------------------
+
+**Week of March 20th**
 
 Today my group presented on the topic of Malware and AWS services 
 to keep the cloud safe. We watched presentations by our classmates 
