@@ -1,23 +1,20 @@
-<<<<<<< HEAD
 **Week of March 27th**
-=======
-** Week of March 27th Notes**
->>>>>>> 918d796 (notes)
+
 
 I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
 break into companies server room and limited access spaces. He mentioned 
 using a blow up doll on one of his missions. He lied on the ground to blow up the 
-<<<<<<< HEAD
 doll until sensor activated. I added a commit to Gitlab. I created a branch on one 
 of my repositories on Github and made some additions there.
 I started the Python Module
+
 =======
 doll until sensor activated. 
 I added a commit to Gitlab. I created a branch on one 
 of my repositories on Github and made some additions there.
 I started the Python module and a couple labs. 
->>>>>>> 918d796 (notes)
+
 
 **Python Module**
 
