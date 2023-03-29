@@ -1,12 +1,23 @@
+<<<<<<< HEAD
 **Week of March 27th**
+=======
+** Week of March 27th Notes**
+>>>>>>> 918d796 (notes)
 
 I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
 break into companies server room and limited access spaces. He mentioned 
 using a blow up doll on one of his missions. He lied on the ground to blow up the 
+<<<<<<< HEAD
 doll until sensor activated. I added a commit to Gitlab. I created a branch on one 
 of my repositories on Github and made some additions there.
 I started the Python Module
+=======
+doll until sensor activated. 
+I added a commit to Gitlab. I created a branch on one 
+of my repositories on Github and made some additions there.
+I started the Python module and a couple labs. 
+>>>>>>> 918d796 (notes)
 
 **Python Module**
 
@@ -21,10 +32,39 @@ A composite data type stores different types of data in a single variable.
 Functions are collections of instructions that can be called repeatedly in a program.
 Version control manages changes to computer programs, documents, or other collections of information.
 
+<<<<<<< HEAD
 ---------------------------------------------------------------------------------------------------------------
 
 **Week of March 20th**
 
+=======
+Ticket A function is a piece of reusable code with a name. You use a function by:
+* Calling by its name
+* Including a list of one or more inputs called arguments, which are enclosed in parentheses
+Python has several built-in functions that you can use to help you write more useful programs.
+A collection of functions is called a library. Python’s collection of built-in functions is called the Python Standard Library.
+
+
+**Week of March 20th**
+
+Durning the presentation today we learned about how to secure the cloud. 
+The discussion on the use symmetric keys vs asymmetric keys.
+Symmetric encryption uses a private key to encrypt and decrypt an 
+encrypted email. Asymmetric encryption uses the public key of the 
+recipient to encrypt the message. Then, if the recipient wants to decrypt 
+the message, the recipient will have to use their private key to decrypt.
+
+The next presentation discussed API (Application Programming Interface). API provides a programmatic access to data
+Or services. Venmo and Linkedin had API security breeches.  Nmap is a tool used by admins and hackers to scan networks
+for open ports and search for active hosts on a network. 
+Wireshark is used to scan for vulnerabilities. When scanning IP addresses, a decoy IP address should be used. 
+Myles did a demonstration with ESXi. 
+Shafan Sugarman included this photo for the class to see :
+![Document Shared by Sugarman](images/Screenshot_2023-03-28_at_12.20.53_PM.png)
+
+**Friday**
+
+>>>>>>> 918d796 (notes)
 Today my group presented on the topic of Malware and AWS services 
 to keep the cloud safe. We watched presentations by our classmates 
 and learned a  bit. A topic that stood out to me during the presentations 
