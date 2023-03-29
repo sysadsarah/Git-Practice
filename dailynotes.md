@@ -4,16 +4,10 @@
 I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
 break into companies server room and limited access spaces. He mentioned 
-using a blow up doll on one of his missions. He lied on the ground to blow up the 
-doll until sensor activated. I added a commit to Gitlab. I created a branch on one 
+using a blow up doll on one of his missions. He lied on the ground to blow up the doll 
+until sensor activated. I added a commit to Gitlab. I created a branch on one 
 of my repositories on Github and made some additions there.
 I started the Python Module
-
-=======
-doll until sensor activated. 
-I added a commit to Gitlab. I created a branch on one 
-of my repositories on Github and made some additions there.
-I started the Python module and a couple labs. 
 
 
 **Python Module**
@@ -61,7 +55,7 @@ Shafan Sugarman included this photo for the class to see :
 
 **Friday**
 
->>>>>>> 918d796 (notes)
+
 Today my group presented on the topic of Malware and AWS services 
 to keep the cloud safe. We watched presentations by our classmates 
 and learned a  bit. A topic that stood out to me during the presentations 
