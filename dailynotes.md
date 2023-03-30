@@ -24,7 +24,6 @@ until sensor activated. I added a commit to Gitlab. I created a branch on one
 of my repositories on Github and made some additions there.
 I started the Python Module
 
-
 **Python Module**
 
 I learned that GoLang is a language that google created. 
