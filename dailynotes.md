@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Week of April 3rd Notes**
 
 
@@ -20,21 +21,33 @@ AWS X-Ray helps developers analyze and debug distributed applications in product
 =======
 ** Week of March 27th Notes**
  (notes)
+=======
+**Week of March 27th**
+>>>>>>> 338cb6f74502feeac3b075ad7598903d5f7c9cf4
 
-I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
+Wednesday we started our day taking a practice test for the practitioner exam.
+Though the class passed, individually, were are at varying levels. I will
+Continue to study until I get all the questions correct. 
+
+After lunch, we had a graduate from a past cohort come to speak to our class.
+Her name was Muriah and she explained her job search and interview experiences.
+Some pointers from today’s guest Muriah:
+* Indeed is a good resource. It provided her with the most interviews.
+* Use key terms that match your the job you’re applying for on your resume.
+* Thank the interviewer for their time before introduing yourself. 
+* Body language and a great attitude goes a long way.
+I for one appreciate the the visits from former students as it gives me a sense of encouragement.
+
+Later the gathered into groups and did labs from the Jaws module. 
+One lab prompted us to install python from the command line. Then we needed to get a Json policy by only using the AWS CLI. This was difficult. With some assistance, we used arn=$(aws iam list-policies --scope Local --query "Policies[*].Arn" --output text); aws iam get-policy-version --policy-arn $arn --version-id v1.  This allowed the team to complete the lab. 
+
+On Tuesday I told the class that I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
 break into companies server room and limited access spaces. He mentioned 
-using a blow up doll on one of his missions. He lied on the ground to blow up the 
-<<<<<<< HEAD
-doll until sensor activated. I added a commit to Gitlab. I created a branch on one 
+using a blow up doll on one of his missions. He lied on the ground to blow up the doll 
+until sensor activated. I added a commit to Gitlab. I created a branch on one 
 of my repositories on Github and made some additions there.
 I started the Python Module
-=======
-doll until sensor activated. 
-I added a commit to Gitlab. I created a branch on one 
-of my repositories on Github and made some additions there.
-I started the Python module and a couple labs. 
->>>>>>> 918d796 (notes)
 
 **Python Module**
 
@@ -81,7 +94,7 @@ Shafan Sugarman included this photo for the class to see :
 
 **Friday**
 
->>>>>>> 918d796 (notes)
+
 Today my group presented on the topic of Malware and AWS services 
 to keep the cloud safe. We watched presentations by our classmates 
 and learned a  bit. A topic that stood out to me during the presentations 
