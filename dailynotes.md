@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Week of April 3rd Notes**
 
 
@@ -17,13 +16,8 @@ SWF
 AWS X-Ray helps developers analyze and debug distributed applications in production or under development, such as those built using micro service architecture. With X-Ray, you can understand how your application and its underlying services are performing.
 
 
-**Week of March 27th**
-=======
 ** Week of March 27th Notes**
  (notes)
-=======
-**Week of March 27th**
->>>>>>> 338cb6f74502feeac3b075ad7598903d5f7c9cf4
 
 Wednesday we started our day taking a practice test for the practitioner exam.
 Though the class passed, individually, were are at varying levels. I will
@@ -62,12 +56,12 @@ A composite data type stores different types of data in a single variable.
 Functions are collections of instructions that can be called repeatedly in a program.
 Version control manages changes to computer programs, documents, or other collections of information.
 
-<<<<<<< HEAD
+
 ---------------------------------------------------------------------------------------------------------------
 
 **Week of March 20th**
 
-=======
+
 Ticket A function is a piece of reusable code with a name. You use a function by:
 * Calling by its name
 * Including a list of one or more inputs called arguments, which are enclosed in parentheses
