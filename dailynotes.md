@@ -1,8 +1,25 @@
-<<<<<<< HEAD
+**Week of April 3rd Notes**
+
+
+Notes of some terms I needed to learn for the Cloud Practitioner test. 
+ElastiCache?
+Amazon ElastiCache is a web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud. The service improves the performance of web applications by allowing you to retrieve information from fast, managed, in-memory data stores, instead of relying entirely on slower disk-based databases.
+
+AWS Elastic Beanstalk makes it easy for developers to quickly deploy and manage applications in the AWS Cloud. Developers simply upload their application code, and Elastic Beanstalk automatically handles the deployment details of capacity provisioning, load balancing, auto-scaling, and application health monitoring.
+
+Amazon SQS
+Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly-scalable hosted queue for storing messages as they travel between applications or microservices. It moves data between distributed application components and helps you decouple these components.
+
+SWF
+ Amazon Simple Workflow Service (SWF) is a web service that makes it easy to coordinate work across distributed application components. Amazon SWF enables applications for a range of use cases, including media processing, web application back-ends, business process workflows, and analytics pipelines, to be designed as a coordination of tasks.
+
+AWS X-Ray helps developers analyze and debug distributed applications in production or under development, such as those built using micro service architecture. With X-Ray, you can understand how your application and its underlying services are performing.
+
+
 **Week of March 27th**
 =======
 ** Week of March 27th Notes**
->>>>>>> 918d796 (notes)
+ (notes)
 
 I listened a the darknet diaries podcast called Jason’s, Pen test. Jason 
 talked about doing pen tests back in the days when he had to physically 
