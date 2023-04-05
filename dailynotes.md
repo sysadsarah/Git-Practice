@@ -4,7 +4,7 @@
 
 Today I learned the difference between vertical scaling and horizontal scaling. Vertica scaling (“scaling up”), you're adding more compute power to your existing instances/nodes. So if I go from T2 to T3 I scaled up. In horizontal scaling (“scaling out”), you get the additional capacity in a system by adding more instances to your environment, sharing the processing and memory workload across multiple devices. If I add EC2 instances, Im scaled out.
 What do I find interesting? Alot of the AWS terms and policies are 
-![Load Balancing](images/Screenshot_2023-04-05_at_9.53.45_AM.png)
+![Load Balancing](https://social.dnsmadeeasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-19-at-4.18.23-PM.png)
 
 Today I learned that AWS has added some categories to their support plan. Enterprise On-Ramp is not a service that we have seen in our coursework. 
 Enterprise On-Ramp is for those who have production/business critical workloads in AWS and want 24x7 access to technical support and need expert guidance to grow and optimize in the Cloud. With Enterprise On-Ramp, you get 24x7 technical support from high-quality engineers, tools and technology to automatically manage health of your environment, consultative architectural guidance delivered in the context of your applications and use-cases, and a pool of Technical Account Managers (TAMs) to coordinate access to proactive / preventative programs and AWS subject matter experts. 
